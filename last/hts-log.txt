@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 03 Apr 2023 14:58:47 at https://devsdesign.net/products/html/clenia/onepage3.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://devsdesign.net/products/html/clenia/onepage3.html -O1 "C:\My Web Sites\last" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:59:42	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/clenia/apple-touch-icon.png (from https://devsdesign.net/products/html/clenia/onepage3.html)
+15:01:26	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/clenia/blog-single.html (from https://devsdesign.net/products/html/clenia/onepage3.html)
+15:01:26	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/clenia/services.html (from https://devsdesign.net/products/html/clenia/onepage3.html)
+15:01:29	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/clenia/assets/css/owl.video.play.png (from https://devsdesign.net/products/html/clenia/assets/css/owl.carousel.css)
+15:01:29	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/clenia/assets/inc/custom-slider/img/loading.gif (from https://devsdesign.net/products/html/clenia/assets/inc/custom-slider/css/preview.css)
+15:01:29	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/clenia/assets/inc/custom-slider/img/bullets.png (from https://devsdesign.net/products/html/clenia/assets/inc/custom-slider/css/preview.css)
+15:01:29	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/clenia/assets/inc/custom-slider/img/arrows.png (from https://devsdesign.net/products/html/clenia/assets/inc/custom-slider/css/preview.css)
+15:01:29	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/clenia/assets/images/about/style3/2.png (from https://devsdesign.net/products/html/clenia/style.css)
+15:01:29	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/clenia/assets/images/services/single/side-img.jpg (from https://devsdesign.net/products/html/clenia/style.css)
+15:01:29	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/clenia/assets/images/choose/call-us.jpg (from https://devsdesign.net/products/html/clenia/style.css)
+15:01:29	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/clenia/covid-19-Cleaning.html (from https://devsdesign.net/products/html/clenia/index2.html)
+15:01:29	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/clenia/assets/images/logo-dark.png (from https://devsdesign.net/products/html/clenia/onepage1.html)
+15:01:29	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/clenia/Projects-details.html (from https://devsdesign.net/products/html/clenia/onepage1.html)
+15:01:29	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/clenia/blog-details.html (from https://devsdesign.net/products/html/clenia/blog.html)
+15:01:29	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/clenia/blog-single (from https://devsdesign.net/products/html/clenia/blog.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 42 seconds : 326 links scanned, 310 files written (16347768 bytes overall) [13603709 bytes received at 83973 bytes/sec], 3924528 bytes transferred using HTTP compression in 82 files, ratio 25%, 19.1 requests per connection
+(15 errors, 0 warnings, 0 messages)
